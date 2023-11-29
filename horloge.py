@@ -9,7 +9,6 @@ def afficher_heure(heure):
     while True:
         # Affichage de l'heure
         
-        
         # Mise à jour de l'heure
         s += 1
         if s == 60:
